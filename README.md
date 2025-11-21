@@ -16,7 +16,6 @@ numpy → for numerical operations
 
 matplotlib / seaborn → for graphs
 
-warnings → to hide unnecessary warnings
 
 These libraries are essential for any data analysis project.
 
